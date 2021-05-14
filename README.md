@@ -15,7 +15,7 @@ IIoT:ta käytetään:
 - Älykkäiden tehtaiden ja autonomisten tuotteiden luomiseen.
 IIoT:n sovelluksia voidaan hyödyntää myös mm. terveydenhuollossa. Potilaiden hoidon tehoa ja tasoa voidaan seurata uudenlaisilla mittareilla. Logistiikkaan ja kaluston hallintaa voidaan myös tehostaa.
 ###  Kuva sääaseman rakenteesta
-![Sääaseman rakenne](/piirrustus.png)
+![Sääaseman rakenne](/piirrustus_rakenne.png)
 ### Laitteistot
 Particle Photon –kehityskortti vastaanottaa sähköisen suureen ja muuttaa sen digitaaliseen muotoon.
 Koodaajan ohjelmoiman Firmware (=laiteohjelmisto) –koodin ansiosta kehityskortin prosessori osaa kirjoittaa saamansa tiedon asteina ja prosentteina konsoliin ja lähettää datan Webhookilla eteenpäin.
